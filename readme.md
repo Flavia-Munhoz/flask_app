@@ -1,0 +1,1 @@
+Manipulação do framework Flask para 
